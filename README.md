@@ -19,5 +19,6 @@ my plan 9/9front work is currently private as it is under active development and
 ## fun gimmicky things / limited use cases
 
 * [digital compost bin](https://github.com/chickazee4/digitalcompostbin) - gradually corrupt specific files until they're unrecognizable
+* [echo.go](https://github.com/chickazee4/echo.go) - simple, fast out-of-memory exception generator
 * [trollface](https://github.com/chickazee4/trollface) - output one of several types of ASCII trollfaces to the console
 * [webnoise](https://github.com/chickazee4/webnoise) - generate constant arbitrary network traffic to a website or list of websites
