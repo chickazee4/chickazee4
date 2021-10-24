@@ -7,10 +7,11 @@ i have a lot of smaller projects, which are only increasing in number, that warr
 * [desmume-cmake](https://github.com/chickazee4/desmume-cmake) - port of the nintendo DS emulator desmume to the CMake build platform, intended mostly for embedding the software in larger projects. this is theoretically platform-agnostic but i haven't actually added windows build support so i'm putting it here.
 * [libunwind-musl-x86-build-scripts](https://github.com/chickazee4/libunwind-musl-x86-build-scripts) - exactly what it says in the name
 * [mynix](https://github.com/chickazee4/mynix) - my NixOS configuration (not really for public use, but it's available if you *want* to)
+* [spotify-tumbleweed](https://github.com/chickazee4/spotify-tumbleweed) - script to install spotify on openSUSE or other neglected distributions that lack a native spotify package
 
 ## plan 9/9front
 
-my plan 9/9front work is currently private as it is under active development and not ready for public viewing/use. check back later and links may be added. 
+private. check back later and links may be added. 
 
 ## platform-agnostic/general unix
 
