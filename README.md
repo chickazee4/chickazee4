@@ -1,12 +1,11 @@
 # chickazee4
 
-i have a lot of smaller projects, which are only increasing in number, that warrant a better listing format than github provides by default. here's a categorical listing of my repositories:
+my repositories:
 
 ## linux
 
-* [desmume-cmake](https://github.com/chickazee4/desmume-cmake) - port of the nintendo DS emulator desmume to the CMake build platform, intended mostly for embedding the software in larger projects. this is theoretically platform-agnostic but i haven't actually added windows build support so i'm putting it here.
 * [libunwind-musl-x86-build-scripts](https://github.com/chickazee4/libunwind-musl-x86-build-scripts) - exactly what it says in the name
-* [mynix](https://github.com/chickazee4/mynix) - my NixOS configuration (not really for public use, but it's available if you *want* to)
+* [mynix](https://github.com/chickazee4/mynix) - my NixOS configuration (not really for public use, but it's available if you *want* to use it)
 * [slackbuilds](https://github.com/chickazee4/slackbuilds) - binary packages generated from SlackBuilds.org scripts, compatible with Slackware64-current
 * [spotify-tumbleweed](https://github.com/chickazee4/spotify-tumbleweed) - script to install spotify on openSUSE or other neglected distributions that lack a native spotify package - NOT MAINTAINED
 
