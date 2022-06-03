@@ -4,7 +4,6 @@ my repositories:
 
 ## linux
 
-* [libunwind-musl-x86-build-scripts](https://github.com/chickazee4/libunwind-musl-x86-build-scripts) - exactly what it says in the name
 * [mynix](https://github.com/chickazee4/mynix) - my NixOS configuration (not really for public use, but it's available if you *want* to use it)
 * [slackbuilds](https://github.com/chickazee4/slackbuilds) - binary packages generated from SlackBuilds.org scripts, compatible with Slackware64-current
 * [spotify-tumbleweed](https://github.com/chickazee4/spotify-tumbleweed) - script to install spotify on openSUSE or other neglected distributions that lack a native spotify package - NOT MAINTAINED
